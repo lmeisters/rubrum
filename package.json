@@ -1,0 +1,12 @@
+{
+  "name": "rubrum",
+  "version": "1.0.0",
+  "description": "Landing page for Rubrum",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Linards",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
