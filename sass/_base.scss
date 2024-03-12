@@ -1,8 +1,10 @@
 :root {
-    --color-alert: #eb2f64;
+    --color-accent: #14d09f;
     --color-primary: #EDEBEB;
     --color-primary-light: #F9F3F3;
     --color-primary-dark: #DDDDDD;
+    
+    --color-secondary: #2D2D2D;
     
     --color-grey-light-1: #faf9f9;
     --color-grey-light-2: #f4f2f2;
@@ -14,6 +16,9 @@
     --color-grey-dark-3: #999;
     
     --shadow-dark: 0 2rem 6rem rgba(0,0,0,0.3);
+    --shadow-light: 0 2rem 5rem rgba(0, 0, 0, .06);
+    
+    --line: solid 1px var(--color-grey-dark-1);
 }
 
 * {
